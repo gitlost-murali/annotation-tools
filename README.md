@@ -4,6 +4,8 @@
 - Run on Windows / Linux / Mac
 - Works offline
 
+Compiled list : https://www.datasetlist.com/tools/
+
 1. [LabelImg](https://github.com/tzutalin/labelImg)
 
     - Pros:
